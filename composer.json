@@ -1,0 +1,7 @@
+{
+    "require": {
+        "illuminate/database": "^5.4",
+        "fabpot/goutte": "^3.2",
+        "robmorgan/phinx": "^0.8.1"
+    }
+}
